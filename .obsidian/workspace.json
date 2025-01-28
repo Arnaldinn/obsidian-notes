@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desec/Netcat.md",
+                "file": "Desec/Snort (Monitorador de Rede).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Netcat"
+              "title": "Snort (Monitorador de Rede)"
             }
           }
         ]
@@ -164,16 +164,19 @@
   },
   "active": "7ab3bff69039a35d",
   "lastOpenFiles": [
-    "Desec/OSINT.md",
-    "Desec/Netcat.md",
-    "Desec/Python (scan).md",
     "Obisidian/Como usar o obisidian?.md",
+    "Desec/Netcat.md",
+    "Desec/OSINT.md",
+    "Desec/Python (scan).md",
+    "Desec/Snort (Monitorador de Rede).md",
+    "Desec/Snort/Sem título.md",
+    "Desec/Snort",
+    "Sem título.md",
     "Sem título",
     "Desec/TCP IP.md",
     "Sem título/Obisidian.md",
     "Sem título 1",
     "Obisidian",
-    "Sem título.md",
     "Desec"
   ]
 }
