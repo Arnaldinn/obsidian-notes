@@ -1,0 +1,4 @@
+Serviço que permite compartilhamento de arquivos e diretórios.
+
+NetBIOS - Network Basic Input Output System Porta: 139(TCP)
+SMB - Server Message Block Porta: 445(TCP)
