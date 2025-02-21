@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "2228906b0f199c06",
+    "id": "24d058754cc9e6e6",
     "type": "split",
     "children": [
       {
-        "id": "1371bf9ab405eae3",
+        "id": "ed40bbc55ed946a5",
         "type": "tabs",
         "children": [
           {
-            "id": "7ab3bff69039a35d",
+            "id": "63628b2c2fc6a145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desec/Netcat.md",
+                "file": "Netcat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Netcat"
             }
-          },
-          {
-            "id": "64324e9d3d9cdd75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desec/Hashes ( Windows).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hashes ( Windows)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "35e46164a825b98b",
+    "id": "279d975f9bd7128b",
     "type": "split",
     "children": [
       {
-        "id": "fa21095be5fd0f3f",
+        "id": "db4b8e4d47b88e44",
         "type": "tabs",
         "children": [
           {
-            "id": "a97606a53cb16223",
+            "id": "1676e316970e372f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "883387b5102fe8b7",
+            "id": "089c1652ec993dcf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "8b283cfd3b12d9d3",
+            "id": "0044b534fb7f899a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "bb981530dc38bf56",
+    "id": "a854af4be67a546c",
     "type": "split",
     "children": [
       {
-        "id": "bde794b86b922f60",
+        "id": "b25aaf526187ba98",
         "type": "tabs",
         "children": [
           {
-            "id": "68cb4d73e310c00a",
+            "id": "8a1d53f8caf83f71",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desec/TCP IP.md",
+                "file": "Netcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,46 +104,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para TCP IP"
+              "title": "Links inversos para Netcat"
             }
           },
           {
-            "id": "b8e99e9e60bffc21",
+            "id": "24bd83eb5277bb67",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desec/TCP IP.md",
+                "file": "Netcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para TCP IP"
+              "title": "Links de saída para Netcat"
             }
           },
           {
-            "id": "1cd5491b5047f139",
+            "id": "121ae492a75aba66",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "da6bf0a0b86b204d",
+            "id": "7d5404d9b5e79916",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desec/TCP IP.md"
+                "file": "Netcat.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de TCP IP"
+              "title": "Sumário de Netcat"
             }
           }
         ]
@@ -178,21 +168,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "64324e9d3d9cdd75",
+  "active": "63628b2c2fc6a145",
   "lastOpenFiles": [
-    "Desec/Netcat.md",
-    "Desec/Hashes ( Windows).md",
-    "Desec/OSINT.md",
-    "Sem título",
-    "Desec/Snort (Monitorador de Rede).md",
-    "Obisidian/Como usar o obisidian?.md",
-    "Desec/Python (scan).md",
-    "Desec/Snort/Sem título.md",
-    "Desec/Snort",
-    "Desec/TCP IP.md",
-    "Sem título/Obisidian.md",
-    "Sem título 1",
-    "Obisidian",
-    "Desec"
+    "OSINT.md",
+    "Netcat.md",
+    "Python (scan).md",
+    "Snort (Monitorador de Rede).md"
   ]
 }
