@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desec/Hashes ( Windows).md",
+                "file": "Desec/Brute Force (Hydra).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashes ( Windows)"
+              "title": "Brute Force (Hydra)"
             }
           }
         ],
@@ -180,13 +180,20 @@
   },
   "active": "64324e9d3d9cdd75",
   "lastOpenFiles": [
-    "Desec/Netcat.md",
-    "Desec/Hashes ( Windows).md",
-    "Desec/OSINT.md",
-    "Sem título",
+    "Desec/Pentest Interno.md",
+    "Desec/Brute Force (Hydra).md",
+    "Desec/Validação de credenciais.md",
+    "Desec/Capturando Hashes na Rede.md",
+    "Desec/Enumerando as contas do AD.md",
     "Desec/Snort (Monitorador de Rede).md",
-    "Obisidian/Como usar o obisidian?.md",
     "Desec/Python (scan).md",
+    "Desec/OSINT.md",
+    "Desec/Netcat.md",
+    "Desec/Metasploit.md",
+    "Desec/Hashes ( Windows).md",
+    "Desec/Sem título",
+    "Sem título",
+    "Obisidian/Como usar o obisidian?.md",
     "Desec/Snort/Sem título.md",
     "Desec/Snort",
     "Desec/TCP IP.md",
