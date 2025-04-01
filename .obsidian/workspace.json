@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desec/Brute Force (Hydra).md",
+                "file": "Desec/Buffer Overflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brute Force (Hydra)"
+              "title": "Buffer Overflow"
             }
           }
         ],
@@ -180,8 +180,10 @@
   },
   "active": "64324e9d3d9cdd75",
   "lastOpenFiles": [
-    "Desec/Pentest Interno.md",
     "Desec/Brute Force (Hydra).md",
+    "Desec/Buffer Overflow.md",
+    "Desec/Buffer Overflow",
+    "Desec/Pentest Interno.md",
     "Desec/Validação de credenciais.md",
     "Desec/Capturando Hashes na Rede.md",
     "Desec/Enumerando as contas do AD.md",
@@ -191,7 +193,6 @@
     "Desec/Netcat.md",
     "Desec/Metasploit.md",
     "Desec/Hashes ( Windows).md",
-    "Desec/Sem título",
     "Sem título",
     "Obisidian/Como usar o obisidian?.md",
     "Desec/Snort/Sem título.md",
