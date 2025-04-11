@@ -12,3 +12,5 @@ Deve ser setado no **Responder.Conf** quais os IPS que você deseja monitorar, n
 
 
 
+
+
