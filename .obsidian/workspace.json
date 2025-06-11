@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desec/Metasploit.md",
+                "file": "Desec/Pentest Interno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metasploit"
+              "title": "Pentest Interno"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -170,16 +170,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "64324e9d3d9cdd75",
   "lastOpenFiles": [
+    "yes.pub",
+    "yes",
+    "Desec/Metasploit.md",
     "Desec/Pentest Web.md",
     "Desec/Brute Force (Hydra).md",
     "Desec/Capturando Hashes na Rede.md",
@@ -192,7 +195,6 @@
     "Desec/Python (scan).md",
     "Desec/OSINT.md",
     "Desec/Netcat.md",
-    "Desec/Metasploit.md",
     "Desec/Hashes ( Windows).md",
     "Sem título",
     "Obisidian/Como usar o obisidian?.md",
