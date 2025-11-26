@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desec/Pentest Web.md",
+                "file": "DECSTORE/Primeiros passos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pentest Web"
+              "title": "Primeiros passos"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -170,22 +170,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "64324e9d3d9cdd75",
   "lastOpenFiles": [
+    "Sem título.md",
+    "DECSTORE/Primeiros passos.md",
     "Desec/Pentest Interno.md",
+    "DECSTORE",
+    "Obisidian/Como usar o obisidian?.md",
+    "Desec/Pentest Web.md",
+    "Desec/Netcat.md",
     "sync-obsidian.sh",
     "yes.pub",
     "yes",
     "Desec/Metasploit.md",
-    "Desec/Pentest Web.md",
     "Desec/Brute Force (Hydra).md",
     "Desec/Capturando Hashes na Rede.md",
     "Desec/Buffer Overflow.md",
@@ -195,10 +200,7 @@
     "Desec/Snort (Monitorador de Rede).md",
     "Desec/Python (scan).md",
     "Desec/OSINT.md",
-    "Desec/Netcat.md",
     "Desec/Hashes ( Windows).md",
-    "Sem título",
-    "Obisidian/Como usar o obisidian?.md",
     "Desec/Snort/Sem título.md",
     "Desec/Snort",
     "Desec/TCP IP.md",
