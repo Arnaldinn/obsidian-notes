@@ -1,4 +1,3 @@
-
 O **Hydra** é uma ferramenta de **força bruta** usada para testar autenticação em diversos serviços, como SSH, RDP, SMB, FTP, HTTP, MySQL, entre outros.
 
 ```

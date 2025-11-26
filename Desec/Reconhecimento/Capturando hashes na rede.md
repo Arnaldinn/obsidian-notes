@@ -9,8 +9,3 @@ sudo responder -I eth0 -Pv
 Deve ser setado no **Responder.Conf** quais os IPS que você deseja monitorar, na parte de "RespondTo", por ser tratar de um processo mais ágil 
 
 **PARTE III - Validação de Credenciais**
-
-
-
-
-

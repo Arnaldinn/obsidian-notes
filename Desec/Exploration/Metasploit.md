@@ -43,12 +43,3 @@ set PAYLOAD windows/shell/reverse_tcp
 
 !!! **Backdoor** "Atenção!"
     Um **backdoor** (porta dos fundos) é um **método secreto** para obter acesso a um sistema, aplicativo ou rede sem passar pelos mecanismos normais de autenticação. Ele pode ser inserido por um atacante após comprometer um sistema ou pode ser um código oculto deixado pelo próprio desenvolvedor (intencionalmente ou não).
-
-
-
-
-
-
-
-
-

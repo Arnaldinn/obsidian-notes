@@ -34,6 +34,3 @@ querygroupmem
 ```
 Mostra os membros que estão no grupo 
 
-
-
-

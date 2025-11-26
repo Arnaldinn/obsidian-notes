@@ -1,2 +1,0 @@
-Quando um programa reserva um espaço na memória (um **buffer**) para armazenar dados — por exemplo, uma string com até 16 caracteres —, ele espera que o usuário forneça **no máximo esse tamanho**. Se o usuário envia **mais dados do que o esperado**, esses dados "vazam" para áreas da memória vizinhas.
-
